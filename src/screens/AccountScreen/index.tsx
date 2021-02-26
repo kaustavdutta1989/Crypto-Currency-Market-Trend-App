@@ -1,5 +1,6 @@
 import React from 'react';
-import {View, Text} from 'react-native';
+import {View, Text, Image} from 'react-native';
+const accountImage = require('../../../assets/images/Saly-1.png');
 
 const AccountScreen = () => {
   return (
