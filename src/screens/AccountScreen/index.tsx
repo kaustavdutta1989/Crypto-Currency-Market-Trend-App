@@ -28,6 +28,166 @@ const accountCoins = [{
   amount: 3012,
   valueUSD: 3012,
   valueINR: 70 * 3012,
+},{
+  id: '3',
+  image: 'https://en.bitcoin.it/w/images/en/2/29/BC_Logo_.png',
+  name: 'Etherium',
+  symbol: 'ETH',
+  amount: 3012,
+  valueUSD: 3012,
+  valueINR: 70 * 3012,
+},{
+  id: '3',
+  image: 'https://en.bitcoin.it/w/images/en/2/29/BC_Logo_.png',
+  name: 'Etherium',
+  symbol: 'ETH',
+  amount: 3012,
+  valueUSD: 3012,
+  valueINR: 70 * 3012,
+},{
+  id: '3',
+  image: 'https://en.bitcoin.it/w/images/en/2/29/BC_Logo_.png',
+  name: 'Etherium',
+  symbol: 'ETH',
+  amount: 3012,
+  valueUSD: 3012,
+  valueINR: 70 * 3012,
+},{
+  id: '3',
+  image: 'https://en.bitcoin.it/w/images/en/2/29/BC_Logo_.png',
+  name: 'Etherium',
+  symbol: 'ETH',
+  amount: 3012,
+  valueUSD: 3012,
+  valueINR: 70 * 3012,
+},{
+  id: '3',
+  image: 'https://en.bitcoin.it/w/images/en/2/29/BC_Logo_.png',
+  name: 'Etherium',
+  symbol: 'ETH',
+  amount: 3012,
+  valueUSD: 3012,
+  valueINR: 70 * 3012,
+},{
+  id: '3',
+  image: 'https://en.bitcoin.it/w/images/en/2/29/BC_Logo_.png',
+  name: 'Etherium',
+  symbol: 'ETH',
+  amount: 3012,
+  valueUSD: 3012,
+  valueINR: 70 * 3012,
+},{
+  id: '3',
+  image: 'https://en.bitcoin.it/w/images/en/2/29/BC_Logo_.png',
+  name: 'Etherium',
+  symbol: 'ETH',
+  amount: 3012,
+  valueUSD: 3012,
+  valueINR: 70 * 3012,
+},{
+  id: '3',
+  image: 'https://en.bitcoin.it/w/images/en/2/29/BC_Logo_.png',
+  name: 'Etherium',
+  symbol: 'ETH',
+  amount: 3012,
+  valueUSD: 3012,
+  valueINR: 70 * 3012,
+},{
+  id: '3',
+  image: 'https://en.bitcoin.it/w/images/en/2/29/BC_Logo_.png',
+  name: 'Etherium',
+  symbol: 'ETH',
+  amount: 3012,
+  valueUSD: 3012,
+  valueINR: 70 * 3012,
+},{
+  id: '3',
+  image: 'https://en.bitcoin.it/w/images/en/2/29/BC_Logo_.png',
+  name: 'Etherium',
+  symbol: 'ETH',
+  amount: 3012,
+  valueUSD: 3012,
+  valueINR: 70 * 3012,
+},{
+  id: '3',
+  image: 'https://en.bitcoin.it/w/images/en/2/29/BC_Logo_.png',
+  name: 'Etherium',
+  symbol: 'ETH',
+  amount: 3012,
+  valueUSD: 3012,
+  valueINR: 70 * 3012,
+},{
+  id: '3',
+  image: 'https://en.bitcoin.it/w/images/en/2/29/BC_Logo_.png',
+  name: 'Etherium',
+  symbol: 'ETH',
+  amount: 3012,
+  valueUSD: 3012,
+  valueINR: 70 * 3012,
+},{
+  id: '3',
+  image: 'https://en.bitcoin.it/w/images/en/2/29/BC_Logo_.png',
+  name: 'Etherium',
+  symbol: 'ETH',
+  amount: 3012,
+  valueUSD: 3012,
+  valueINR: 70 * 3012,
+},{
+  id: '3',
+  image: 'https://en.bitcoin.it/w/images/en/2/29/BC_Logo_.png',
+  name: 'Etherium',
+  symbol: 'ETH',
+  amount: 3012,
+  valueUSD: 3012,
+  valueINR: 70 * 3012,
+},{
+  id: '3',
+  image: 'https://en.bitcoin.it/w/images/en/2/29/BC_Logo_.png',
+  name: 'Etherium',
+  symbol: 'ETH',
+  amount: 3012,
+  valueUSD: 3012,
+  valueINR: 70 * 3012,
+},{
+  id: '3',
+  image: 'https://en.bitcoin.it/w/images/en/2/29/BC_Logo_.png',
+  name: 'Etherium',
+  symbol: 'ETH',
+  amount: 3012,
+  valueUSD: 3012,
+  valueINR: 70 * 3012,
+},{
+  id: '3',
+  image: 'https://en.bitcoin.it/w/images/en/2/29/BC_Logo_.png',
+  name: 'Etherium',
+  symbol: 'ETH',
+  amount: 3012,
+  valueUSD: 3012,
+  valueINR: 70 * 3012,
+},{
+  id: '3',
+  image: 'https://en.bitcoin.it/w/images/en/2/29/BC_Logo_.png',
+  name: 'Etherium',
+  symbol: 'ETH',
+  amount: 3012,
+  valueUSD: 3012,
+  valueINR: 70 * 3012,
+},{
+  id: '3',
+  image: 'https://en.bitcoin.it/w/images/en/2/29/BC_Logo_.png',
+  name: 'Etherium',
+  symbol: 'ETH',
+  amount: 3012,
+  valueUSD: 3012,
+  valueINR: 70 * 3012,
+},{
+  id: '3',
+  image: 'https://en.bitcoin.it/w/images/en/2/29/BC_Logo_.png',
+  name: 'Etherium',
+  symbol: 'ETH',
+  amount: 3012,
+  valueUSD: 3012,
+  valueINR: 70 * 3012,
 }]
 
 const AccountScreen = () => {
@@ -35,15 +195,20 @@ const AccountScreen = () => {
   const [portfolioCoins, setPortfolioCoins] = useState([]);
   return (
     <View style={styles.root}>
-      <Image style={styles.image} source={accountImage} />
-      <View style={styles.balanceContainer}>
-        <Text style={styles.label}>Account Balance</Text>
-        <Text style={styles.balance}>₹ 10,00,000</Text>
-      </View>
-
-      <FlatList
+      <FlatList style={{width: '100%'}}
         data = {accountCoins}
         renderItem={({item}) => <AccountCoin accountCoin={item} />}
+        showsVerticalScrollIndicator={false}
+        ListHeaderComponentStyle={{alignItems: 'center'}}
+        ListHeaderComponent={() => (
+          <>
+            <Image style={styles.image} source={accountImage} />
+            <View style={styles.balanceContainer}>
+              <Text style={styles.label}>Account Balance</Text>
+              <Text style={styles.balance}>₹ 10,00,000</Text>
+            </View>
+          </>
+      )}
       />
     </View>
   );
